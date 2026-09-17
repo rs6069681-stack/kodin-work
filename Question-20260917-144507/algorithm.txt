@@ -1,0 +1,5 @@
+start.
+step1: Create a class animal.
+step2:Create a class dog which extends the animal class.
+step3:then,Create a class sol with object dog d1.
+stop.
